@@ -1,1 +1,0 @@
-web: npx browserslist --update-db && yarn start
